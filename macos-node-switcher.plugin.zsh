@@ -1,4 +1,4 @@
-switch-php() {
+switch-node() {
     if [ -f .nvmrc ]; then
         nvm use
     fi
